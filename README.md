@@ -14,5 +14,5 @@ Convert HTML files to PDF with full **multilingual support** including **English
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<username>/htmltopdf-weasy.git
+git clone https://github.com/Manmagi/htmltopdf-weasy.git
 cd htmltopdf-weasy
